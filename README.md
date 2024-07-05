@@ -16,5 +16,5 @@ Go to the Remix website at https://remix.ethereum.org/.
 Create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., ETHToken.sol).
 Copy and paste the provided Solidity code into the file.
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to a compatible version (e.g., "0.8.18"), and then click on the "Compile ETHToken.sol" button.
-Once the code is compiled, deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "MyToken" contract from the dropdown menu, and then click on the "Deploy" button.
+Once the code is compiled, deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "ETHToken" contract from the dropdown menu, and then click on the "Deploy" button.
 After deploying, you can interact with the contract by calling its mint and burn functions. Select the deployed "MyToken" contract in the left-hand sidebar to see these functions and interact with them.
