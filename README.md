@@ -15,6 +15,7 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 1. Go to the Remix website at https://remix.ethereum.org/.
 2. Create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., ETHToken.sol).
 3. Copy and paste the provided Solidity code into the file:
+
 pragma solidity 0.8.18;
 contract ETHToken {
     // Public variables to store details about the token
