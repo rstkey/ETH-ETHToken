@@ -44,6 +44,6 @@ contract ETHToken {
 8. copy the address of the tokens to be burnt and fill them in the address field of the mint function also fill the amount of tokens to be burnt and then check the fluctuations after pressing the totalsupply buttton.
 9. 
 # Authors
-Satyam
+rust-solman
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details.# ETH-ETHToken
